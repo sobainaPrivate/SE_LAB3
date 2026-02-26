@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.listycitylab3" />
+                  <option name="mobileSdkAppId" value="1:397094649502:android:425de8156eda260806c58f" />
+                  <option name="projectId" value="listycity-9eca4" />
+                  <option name="projectNumber" value="397094649502" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
